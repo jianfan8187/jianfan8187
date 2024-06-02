@@ -12,7 +12,7 @@ jianfan8187@gmail.com
 
 注意郵件對同一郵箱每天只回覆一次
 
-無法看影片請使用瀏覽器的無痕模式 耗翻牆網址發佈頁：https://github.com/htapp/htapp
+無法看影片請使用瀏覽器的無痕模式 翻牆網址發佈頁：https://github.com/jianfan8187/jianfan8187
 
 使用海外瀏覽器或夸克瀏覽器來存取更多
 
